@@ -10,8 +10,10 @@ wallet:
   type: file
   keys:
     eosio:
+      # THIS IS THE DEFAULT KEY - NEVER USE
       private: 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
     master:
+      # THIS IS A RANDOM KEY - GOOD LUCK HACKING IT
       private: 5JpipCm4gnAZfcEDfqu1dEVh4LpCsFRLnvK2ZrZehePBjPTRfJx
  
 accounts:
